@@ -17,7 +17,7 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
 #Credits to XiNGRZ
 
-PRODUCT_NAME := lineage_m1852
+PRODUCT_NAME := lineage_m1882
 PRODUCT_BRAND := Meizu
 PRODUCT_DEVICE := m1882
 PRODUCT_MANUFACTURER := Meizu
