@@ -5,7 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/mokee_m1882.mk
+    $(LOCAL_DIR)/lineage_m1882.mk
 
 COMMON_LUNCH_CHOICES := \
-    mokee_m1882-userdebug
+    lineage_m1882-userdebug\
+	lineage_m1882-user\
+	lineage_m1882-eng
