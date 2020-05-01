@@ -12,13 +12,12 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/product_launched_with_o_mr1.mk
 # Inherit from m1882 device
 $(call inherit-product, device/meizu/m1882/device.mk)
 
-# Inherit some common MoKee stuff.
-$(call inherit-product, vendor/mokee/config/common_full_phone.mk)
+# Inherit some common Lineage stuff.
+$(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
-PRODUCT_PROPERTY_OVERRIDES += \
-    ro.mk.maintainer=XiNGRZ
+#Credits to XiNGRZ
 
-PRODUCT_NAME := mokee_m1882
+PRODUCT_NAME := lineage_m1852
 PRODUCT_BRAND := Meizu
 PRODUCT_DEVICE := m1882
 PRODUCT_MANUFACTURER := Meizu

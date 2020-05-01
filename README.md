@@ -21,7 +21,7 @@ Meizu 16th was announced and released in August 2018.
 | Storage      | 64 GB / 128 GB (UFS 2.1 Flash)         |
 | Battery      | Non-removable Li-Po 3010 mAh           |
 | Dimensions   | 150.5 x 73.2 x 7.3 mm                  |
-| Display      | 2160 x 1080 px, 6.5 inches (402 PPI)   |
+| Display      | 2160 x 1080 px, 6.0 inches (402 PPI)   |
 | Rear camera  | 12 MPx, f/1.8 + 20 MPx, f/2.6          |
 | Front camera | 20 MPx, f/2.0                          |
 
