@@ -30,6 +30,10 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 
 BUILD_FINGERPRINT := Meizu/meizu_16th_CN/16th:8.1.0/OPM1.171019.026/1572332128:user/release-keys
 
+# FOD
+TARGET_HAS_FOD := true
+
+
 PRODUCT_PRODUCT_PROPERTIES += \
     ro.sf.lcd_density=400
 
